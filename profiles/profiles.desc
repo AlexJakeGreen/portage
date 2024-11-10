@@ -1,0 +1,5 @@
+amd64 no-multilib-desktop/23.0 dev
+amd64 no-multilib-desktop/23.0/gnome dev
+amd64 no-multilib-desktop/23.0/plasma dev
+amd64 no-multilib-desktop/23.0/gnome/systemd dev
+amd64 no-multilib-desktop/23.0/plasma/systemd dev
